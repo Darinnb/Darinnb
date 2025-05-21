@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I ate ratatouille yesterday!
 
 
-                    My Main repo is Darin.github.io so you can see all my latest code there.
+                    My Main repo is Darinnb.github.io so you can see all my latest code there.
