@@ -8,3 +8,6 @@
 - 📫 How to reach me: add an issue to my Repos or darinbell2811@gmail.com
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I ate ratatouille yesterday!
+
+
+                    My Main repo is Darin.github.io so you can see all my latest code there.
